@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.my-home{
+    width: 150px;
+}
+.bank-icon{
+    color: #1a6385;
+}
+.heading-bg, .scrollbar-sidebar, .platinum-heading{
+    background-color: #1a6385;
+}
+.side-text{
+    font-size: 14px;
+}
+li a{
+    text-decoration: none;
+    padding: 10px !important;   
+}
+
+.icon-text{
+    font-size: 14px;
+}
+.app-sidebar .app-sidebar__inner {
+    padding: 0 !important;
+}
+.pdf-icon1{
+    background-color: green;
+    color: white;
+}
+.pdf-icon2{
+    background-color: rgb(239, 19, 19);
+    color: white;
+}
+.platinum-heading, .platinum-data{
+    font-size: 12px;
+    
+}
+.print{
+    width: 4% !important;
+}
+.music-icon{
+    color: #1a6385;
+}
+.select-number{
+    width: 9%;
+    height: 35px;
+}
+.back-icon{
+    border: 2px solid #0798dc ;
+    color: #0798dc;
+}
+.li a:hover {
+    background-color: transparent !important;
+}

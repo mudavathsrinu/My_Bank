@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.my-home{
+    width: 150px;
+}
+.bank-icon{
+    color: #1a6385;
+}
+.heading-bg, .scrollbar-sidebar{
+    background-color: #1a6385;
+}
+.side-text{
+    font-size: 14px;
+}
+li a{
+    text-decoration: none;
+    padding: 10px !important;   
+}
+.li a:hover {
+    background-color: transparent !important;
+}
+
+.icon-text{
+    font-size: 14px;
+}
+.app-sidebar .app-sidebar__inner {
+    padding: 0 !important;
+}
+
+.table-span{
+    position: relative;
+}
+.table-span::before{
+    position: absolute;
+    content: ' ';
+    width: 3px;
+    height: 13px;
+    background-color: red;
+    top: 8%;
+    left: 2%;
+}
+.check-box-text{
+    font-size: 12px;
+}
+.price-head{
+    color: #1a6385;
+}
+.add-button{
+    background-color: #0895d6;
+    border: 2px solid #0895d6;
+}
+.cancel-button{
+    background-color: white;
+    border: 2px solid #0895d6;
+    color:#0895d6 ;
+}
+.denomination-heading{
+    background-color: #1a6385;
+    font-size: 12px;
+}
+.denomination-box{
+    font-size: 12px;
+    
+}
+.print{
+    width: 4% !important;
+}
